@@ -35,8 +35,8 @@ Ensure you have the following installed on your system:
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/haseebahmed49/langchain-news-aggregator-app.git
-cd langchain-news-aggregator-app
+git clone https://github.com/haseebahmed49/langchain-weather-api-agent.git
+cd langchain-weather-api-agent
 ```
 
 ### 2️⃣ Create a Virtual Environment
